@@ -1,16 +1,13 @@
-# JD7---Coins
-JD7-Coin/ 
-├── README.md 
-├── whitepaper/ │   
-  └── JD7_Whitepaper.md 
-├── tokenomics/ │  
-  └── JD7_Tokenomics.md 
-├── trading_bot/ │   
-├── jd7_bot.py │   
-├── telegram_notify.py │   
-  └── requirements.txt 
-├── roadmap/ │   
-  └── JD7_Roadmap.md 
-├── docs/ │   
-  └── architecture.md 
-  └── LICENSE
+# JD7 Coin (JDC)
+
+JD7 Coin — это децентрализированный токен, ориентированный на автоматизацию торговли, справедливую крипто-экосистему и интеграцию с биометрией и астрологией.
+
+## 🔧 Основные модули
+- Whitepaper и токеномика
+- Python-бот для автоматизации торговли JD7/BTC
+- Telegram-уведомления
+- Астрологическая фильтрация сделок
+
+## 📦 Установка
+```bash
+pip install -r requirements.txt
